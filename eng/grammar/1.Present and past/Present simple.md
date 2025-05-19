@@ -56,6 +56,7 @@ Một số động từ nói gì là làm đó, dùng ở hiện tại đơn:
 | "I suggest we go out tonight." | Tôi **đề nghị** chúng ta đi chơi tối nay.                    |
 | "I refuse to do it."           | Tôi **từ chối** làm việc đó.                                 |
 
+
 ---
 
 ### ⚠️ **Lưu ý chính tả:**
@@ -63,4 +64,23 @@ Một số động từ nói gì là làm đó, dùng ở hiện tại đơn:
 * **He works**, **She goes**, **My sister teaches**
 
 ---
+## more 
+
+| **Động từ**      | **Ý nghĩa tiếng Việt** | **Ví dụ** (hiện tại đơn)              |
+| ---------------- | ---------------------- | ------------------------------------- |
+| **promise**      | hứa                    | I promise I'll be there on time.      |
+| **apologise**    | xin lỗi                | I apologise for being rude.           |
+| **suggest**      | đề nghị                | I suggest we take a break.            |
+| **advise**       | khuyên                 | I advise you to talk to your teacher. |
+| **insist**       | khăng khăng, nhấn mạnh | I insist you come with us.            |
+| **refuse**       | từ chối                | I refuse to answer that question.     |
+| **agree**        | đồng ý                 | I agree with your opinion.            |
+| **admit**        | thừa nhận              | I admit I made a mistake.             |
+| **warn**         | cảnh báo               | I warn you, this is dangerous.        |
+| **deny**         | phủ nhận               | I deny breaking the window.           |
+| **invite**       | mời                    | I invite you to my birthday party.    |
+| **congratulate** | chúc mừng              | I congratulate you on your success.   |
+| **thank**        | cảm ơn                 | I thank you for your help.            |
+| **recommend**    | đề xuất                | I recommend this book.                |
+| **remind**       | nhắc nhở               | I remind you to lock the door.        |
 
