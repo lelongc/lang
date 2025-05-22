@@ -26,7 +26,7 @@
 * I'm reading a good book these days. (Không phải ngay bây giờ, nhưng đang đọc dở)
 * She's learning Italian. (Có thể không học ngay lúc nói)
 
-#### 3. **Hành động diễn ra trong khoảng thời gian xung quanh hiện tại:**
+#### 3. **Hành động diễn ra trong khoảng thời gian xung quanh hiện tại( this week, this year,...):**
 
 * I'm working hard **today**.
 * The company isn't doing well **this year**.
