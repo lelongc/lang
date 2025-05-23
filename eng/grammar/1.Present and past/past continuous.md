@@ -60,7 +60,7 @@
 ---
 
 ## E. Một số động từ KHÔNG dùng ở thì tiếp diễn
-- Các động từ chỉ trạng thái, cảm xúc, nhận thức: **know**, **want**, **like**, **love**, **understand**, **remember**, …
+- Các động từ chỉ trạng thái, cảm xúc, nhận thức: **know**, **want**, **like**, **love**, **understand**, **remember**, … ( mấy từ giống bên bài present continuous chỉ trạng thái, cảm xúc, nhận thức.... mà không đi với V+ing ấy)
 
 **Ví dụ:**
 - We were good friends. We **knew** each other well.  
