@@ -1,0 +1,89 @@
+# Past Simple Tense
+
+## A. Khi nào dùng Past Simple?
+- Dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ, không liên quan đến hiện tại.
+
+**Ví dụ:**
+> Wolfgang Amadeus Mozart was an Austrian musician and composer.  
+> He lived from 1756 to 1791.  
+> He started composing at the age of five and wrote more than 600 pieces of music.  
+> He was only 35 years old when he died.  
+
+Trong ví dụ trên, các động từ **lived**, **started**, **wrote**, **was**, **died** đều ở dạng Past Simple.
+
+---
+
+## B. Động từ đều (Regular Verbs)
+- Hầu hết Past Simple của động từ đều kết thúc bằng **-ed**.
+
+**Ví dụ:**
+- I work in a travel agency now.  
+  Before that I **worked** in a department store.  
+- We **invited** them to our party, but they **decided** not to come.  
+- The police **stopped** me on my way home last night.  
+- Laura **passed** her exam because she **studied** very hard.
+
+> **Lưu ý về viết chữ:**  
+> stopped (stop + p + ed), studied (study → stud + ied), … (xem Appendix 6)
+
+---
+
+## C. Động từ bất quy tắc (Irregular Verbs)
+- Không thêm **-ed**, phải nhớ từng dạng riêng.
+
+| Nguyên mẫu (V₁) | Quá khứ (V₂)  | Ví dụ                                     |
+| --------------- | ------------ | ----------------------------------------- |
+| write           | **wrote**    | Mozart **wrote** more than 600 pieces.   |
+| see             | **saw**      | We **saw** Tanya in town a few days ago. |
+| go              | **went**     | I **went** to the cinema three times.    |
+| shut            | **shut**     | It was cold, so I **shut** the window.   |
+
+---
+
+## D. Câu hỏi và phủ định
+- Dùng **did / didn't + động từ nguyên thể** (V₁).
+
+### Thể nghi vấn (Questions)
+
+| Chủ ngữ | Did + V₁?       |
+| ------- | --------------- |
+| I       | Did I **enjoy**?  |
+| she     | Did she **see**?  |
+| they    | Did they **go**?  |
+
+**Ví dụ:**
+> **A:** Did you go out last night?  
+> **B:** Yes, I **went** to the cinema, but I **didn't enjoy** the film much.
+
+### Thể phủ định (Negatives)
+
+| Chủ ngữ | didn't + V₁      |
+| ------- | ---------------- |
+| I       | I **didn't enjoy** |
+| she     | she **didn't see**   |
+| they    | they **didn't go**   |
+
+**Ví dụ:**
+- They **didn't invite** us to the party, so we **didn't go**.  
+- Did you have time to do the shopping? — No, I **didn't**.  
+- ‘When did Mr Thomas die?’ — ‘About ten years ago.’
+
+> **Lưu ý:** Khi động từ chính là “do”, câu hỏi và phủ định vẫn dùng **did**:  
+> - What **did** you **do** at the weekend?  
+> - I **didn't do** anything.
+
+---
+
+## E. Động từ “to be” ở Past Simple
+- “am/is/are” → **was / were**
+
+| Chủ ngữ           | Khẳng định | Phủ định        | Nghi vấn       |
+| ----------------- | ---------- | --------------- | -------------- |
+| I / he / she / it | was        | wasn’t / was not | Was I …?       |
+| we / you / they   | were       | weren’t / were not | Were we …?     |
+
+**Ví dụ:**
+- I **was** angry because they **were** late.  
+- **Was** the weather good when you **were** on holiday?  
+- They **weren’t** able to come because they **were** so busy.  
+- Did you go out last night or **were** you too tired?

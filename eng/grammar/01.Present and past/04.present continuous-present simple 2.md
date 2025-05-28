@@ -1,0 +1,68 @@
+
+---
+
+## A. Một số động từ **không dùng ở thì hiện tại tiếp diễn**
+
+**Không dùng "am/is/are + V-ing" với các động từ chỉ trạng thái:**
+
+| **Động từ chỉ cảm xúc/sở thích** | **Động từ chỉ nhận thức/niềm tin** | **Động từ chỉ sở hữu/hình thức** |
+|----------------------------------|-------------------------------------|----------------------------------|
+| like, want, need, prefer         | know, realise, suppose, mean, understand, believe, remember | belong, fit, contain, consist, seem |
+
+**Ví dụ:**
+- I'm hungry. I **want** something to eat. *(not "I'm wanting")*
+- Do you **understand** what I mean?
+- Anna **doesn't seem** very happy.
+
+---
+
+## B. **Think** – Nghĩ vs Cân nhắc
+
+| Nghĩa của "think" | Dùng thì nào? | Ví dụ |
+|-------------------|----------------|-------|
+| **Believe / Có ý kiến** | Present Simple | I **think** Mary is Canadian. |
+| **Cân nhắc / Xem xét** | Present Continuous | I'm **thinking** about what happened. |
+
+---
+
+## C. **See / Hear / Smell / Taste**
+
+### Thường dùng thì **Present Simple**:
+- Do you **see** that man over there?
+- This room **smells**. Let's open a window.
+
+### Dùng với **can**:
+- I **can hear** a strange noise.
+- Can you **taste** the garlic?
+
+---
+
+## D. **Look / Feel**
+
+| Thì hiện tại đơn | Thì hiện tại tiếp diễn | Ghi chú |
+|------------------|--------------------------|--------|
+| You **look** tired. | You're **looking** tired. | Cả hai đều đúng khi nói về **tình trạng hiện tại** |
+| How do you **feel**? | How are you **feeling**? | |
+| I usually **feel** tired. | *(not "I'm usually feeling")* | Dùng **Simple** cho thói quen |
+
+---
+
+## E. **He is selfish** vs **He is being selfish**
+
+| Câu | Nghĩa |
+|-----|-------|
+| He **is being** selfish. | = Anh ấy **đang cư xử ích kỷ** (tạm thời, bất thường) |
+| He **is** selfish. | = Anh ấy **là người ích kỷ** (tính cách lâu dài) |
+
+> **Lưu ý:**  
+> "am/is/are being" chỉ dùng để nói về **cách hành xử hiện tại**  
+> Không dùng với tính từ mô tả thời tiết, trạng thái vật lý:
+> - It **is hot** today. *(not "is being hot")*  
+> - Sarah **is tired**. *(not "is being tired")*
+
+---
+
+> **Mẹo nhớ nhanh:**  
+> - Trạng thái / ý kiến → dùng Present Simple  
+> - Hành động / diễn biến / thay đổi → dùng Present Continuous  
+> - "Being + adj" = đang cư xử như thế (khác bình thường)
