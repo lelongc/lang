@@ -139,3 +139,115 @@ Dưới đây là **từ vựng** và các **chunk giao tiếp** (mẫu câu) d�
 ---
 
 Nếu bạn cần **mẫu email hoàn chỉnh** cho từng tình huống hoặc muốn luyện tập phản hồi email, hãy nói rõ nhé!
+Dưới đây là các **mẫu email hoàn chỉnh** cho từng tình huống phổ biến trong công sở, dựa trên nội dung của file bạn cung cấp:
+
+---
+
+### 1. **Xin lỗi và cảm ơn** (Apology & Appreciation)
+
+**Subject:** Apology for Delayed Response
+
+Dear Mr. Smith,
+
+I hope this email finds you well.
+
+I apologize for any inconvenience caused by my delayed response. Thank you for your understanding and patience. I appreciate you bringing this matter to my attention.
+
+If you have any further concerns, please let me know.
+
+Best regards,  
+[Your Name]
+
+---
+
+### 2. **Nhắc lại/Đôn đốc** (Reminder/Follow-up)
+
+**Subject:** Gentle Reminder: Project Update Needed
+
+Hi Anna,
+
+Just a gentle reminder regarding the project update I requested last week. I wanted to check in and see if you have had a chance to review the latest documents.
+
+Please let me know if you need any assistance.
+
+Kind regards,  
+[Your Name]
+
+---
+
+### 3. **Gửi tài liệu/Đính kèm** (Sending Attachments)
+
+**Subject:** Attached: Quarterly Report
+
+Hello Team,
+
+Attached please find the quarterly report for your review. I am sending you the requested documents and additional data for your reference.
+
+Please see the attached file for more details. If you have any questions, feel free to contact me.
+
+Sincerely,  
+[Your Name]
+
+---
+
+### 4. **Đề nghị giúp đỡ** (Offering Help)
+
+**Subject:** Assistance with New Software
+
+Good afternoon John,
+
+I am writing to let you know that if you need assistance with the new software installation, please let me know. I am happy to help if needed.
+
+Looking forward to hearing from you.
+
+Best regards,  
+[Your Name]
+
+---
+
+### 5. **Yêu cầu thông tin/Phản hồi** (Requesting Information/Feedback)
+
+**Subject:** Request for Feedback on Proposal
+
+Dear Ms. Lee,
+
+I am writing to request your feedback on the proposal I sent last Friday. Could you please clarify any points or let me know if you need further information?
+
+Thank you for your time and consideration. I look forward to your reply.
+
+Kind regards,  
+[Your Name]
+
+---
+
+### 6. **Xác nhận & Phản hồi** (Confirmation & Response)
+
+**Subject:** Confirmation of Meeting
+
+Hi Tom,
+
+Thank you for your prompt response. I have received your email and confirm my attendance at the meeting scheduled for tomorrow.
+
+If you have any questions, feel free to contact me.
+
+Best regards,  
+[Your Name]
+
+---
+
+### 7. **Thông báo chung** (General Announcement)
+
+**Subject:** Office Closure Notice
+
+To whom it may concern,
+
+I would like to inform you that our office will be closed next Monday due to a public holiday. Please plan your work schedule accordingly.
+
+If you need any further information, please let me know.
+
+Yours faithfully,  
+[Your Name]
+
+---
+
+Nếu bạn muốn thêm các mẫu cho tình huống khác hoặc cần điều chỉnh cho ngành nghề cụ thể, hãy nói rõ nhé!
