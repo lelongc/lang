@@ -1,19 +1,22 @@
-Chắc chắn rồi. Dưới đây là danh sách các chủ đề chính và ước lượng số lượng từ vựng/cụm từ cốt lõi cần thiết để đạt mức độ thành thạo cho mỗi chủ đề.
-Nhóm 1: Các chủ đề giao tiếp nền tảng
- * Personal Information & Daily Life (Thông tin cá nhân & Cuộc sống hàng ngày): 200 - 350 từ/cụm từ
- * Hobbies & Interests (Sở thích): 150 - 250 từ/cụm từ
- * Work & Study (Công việc & Học tập): 200 - 300 từ/cụm từ
- * Food & Drink (Ẩm thực): 200 - 300 từ/cụm từ
- * Travel & Places (Du lịch & Nơi chốn): 200 - 300 từ/cụm từ
- * People & Relationships (Con người & Mối quan hệ): 150 - 250 từ/cụm từ
- * Shopping & Money (Mua sắm & Tiền bạc): 100 - 200 từ/cụm từ
-Nhóm 2: Các chủ đề mở rộng & học thuật (IELTS Focus)
- * Education (Giáo dục): 250 - 400+ từ/cụm từ
- * Technology (Công nghệ): 150 - 250 từ/cụm từ
- * Environment (Môi trường): 150 - 250 từ/cụm từ
- * Health & Fitness (Sức khỏe): 200 - 300 từ/cụm từ
- * Society & Globalization (Xã hội & Toàn cầu hóa): 200 - 300+ từ/cụm từ
- * Arts & Culture (Nghệ thuật & Văn hóa): 150 - 250 từ/cụm từ
- * Media & News (Truyền thông & Tin tức): 100 - 200 từ/cụm từ
- * Law & Crime (Luật pháp & Tội phạm): 100 - 200 từ/cụm từ
- * Business & Economy (Kinh doanh & Kinh tế): 150 - 250 từ/cụm từ
+Chắc chắn rồi. Dưới đây là danh sách các mục tiêu và ước tính số lượng từ vựng, cụm từ cần thiết để đạt được sự thành thạo cho cả IELTS 7.0 và giao tiếp công sở, đời thường.
+Các ước tính này phản ánh vốn từ vựng chủ động (active vocabulary) mà bạn cần sử dụng một cách linh hoạt.
+ * Giao tiếp Xã hội & Đời sống cá nhân (Social & Personal Life): 350 - 500+ từ/cụm từ
+   (Bao gồm: giới thiệu, gia đình, bạn bè, sở thích, kể chuyện)
+ * Giao tiếp Công sở & Kinh doanh (Workplace & Business): 400 - 600+ từ/cụm từ
+   (Bao gồm: email, họp hành, thuyết trình, đàm phán, từ vựng chuyên ngành)
+ * Giáo dục (Education): 250 - 400+ từ/cụm từ
+   (Chủ đề học thuật trọng tâm của IELTS)
+ * Công nghệ & Khoa học (Technology & Science): 200 - 300 từ/cụm từ
+   (Phổ biến trong cả công việc và các bài thi)
+ * Kinh tế & Tài chính (Economy & Finance): 200 - 350 từ/cụm từ
+   (Cần thiết để đọc tin tức và cho nhiều môi trường công sở)
+ * Sức khỏe & Lối sống (Health & Wellness): 200 - 300 từ/cụm từ
+   (Giao tiếp hàng ngày và chủ đề phổ biến trong IELTS)
+ * Môi trường (Environment): 150 - 250 từ/cụm từ
+   (Chủ đề học thuật trọng tâm của IELTS)
+ * Xã hội, Văn hóa & Toàn cầu hóa (Society, Culture & Globalization): 250 - 400+ từ/cụm từ
+   (Dành cho các cuộc thảo luận sâu và IELTS Writing Task 2)
+ * Du lịch, Ẩm thực & Giải trí (Travel, Food & Entertainment): 300 - 450 từ/cụm từ
+   (Cốt lõi của "small talk" và giao tiếp xã hội)
+ * Truyền thông, Luật pháp & Chính trị (Media, Law & Politics): 200 - 350 từ/cụm từ
+   (Để hiểu và thảo luận các vấn đề thời sự)
