@@ -70,3 +70,31 @@ Dưới đây là **thống kê số lượng từ vựng/cụm từ (phrases) �
 ---
 
 Bạn muốn chọn chủ đề nào để lấy danh sách chi tiết từng từ/cụm từ?
+
+Dưới đây là **số lượng từ vựng và phrase ước tính cho hai chủ đề bổ sung** rất quan trọng cho giao tiếp thành thạo, làm việc trong doanh nghiệp và làm việc remote (làm việc từ xa):
+
+---
+
+## 1. Business & Corporate Communication (Giao tiếp doanh nghiệp)
+
+- **Từ vựng + Phrase:** 350 – 500+
+- Các nhóm từ:  
+  - Chức danh (job titles), phòng ban (departments), quy trình (process), hợp đồng (contract), khách hàng (client), đối tác (partner), meeting, negotiation, teamwork, deadline, KPI, project management, leadership, reporting, feedback, business etiquette, email phrases, making suggestions, giving presentations, handling complaints, etc.
+
+---
+
+## 2. Remote Work (Làm việc từ xa)
+
+- **Từ vựng + Phrase:** 150 – 250+
+- Các nhóm từ:  
+  - Online meeting, video call, telecommute, flexible hours, remote team, work-life balance, set up workspace, time zone, collaboration tools, Slack/Zoom/Teams phrases, screen sharing, asynchronous communication, virtual office, productivity, self-management, online project, digital nomad, technical issues, troubleshooting, etc.
+
+---
+
+### Tổng kết cập nhật  
+- **Giao tiếp doanh nghiệp:** 350 – 500+ từ/cụm từ  
+- **Làm việc remote:** 150 – 250+ từ/cụm từ
+
+---
+
+Nếu bạn muốn danh sách chi tiết các từ/cụm từ cho từng chủ đề này, hãy chọn chủ đề cụ thể hoặc yêu cầu nhé!
