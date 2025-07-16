@@ -1,399 +1,70 @@
-Dưới đây là danh sách tất cả các chủ đề từ vựng cần học để thành thạo TOEIC (cả 4 kỹ năng) nhằm đạt mục tiêu TOEIC Listening + Reading ~850 và Speaking + Writing ~350+. Các chủ đề này phản ánh đầy đủ các tình huống thực tế trong môi trường công việc, doanh nghiệp, giao tiếp nơi làm việc – vốn là trọng tâm của đề thi TOEIC.
+Dưới đây là danh sách toàn bộ các chủ đề TOEIC kèm số lượng từ vựng đơn và chunk/cụm từ ước lượng cần nắm cho mỗi chủ đề để bạn tự tin làm tốt cả Listening, Reading, Speaking, Writing (mục tiêu L+R ≥ 800 và S+W ≥ 350). Mình cũng bổ sung thêm các chủ đề đời thường thường gặp trong tranh Speaking/Writing để bạn không lo “bí” từ.
 
 
 ---
 
-📚 Toàn bộ chủ đề từ vựng TOEIC cần học (bao quát toàn đề thi)
+📚 Bảng tổng hợp chủ đề & khối lượng từ vựng
 
+STT	Chủ đề	Từ đơn cần biết	Chunk/cụm từ cần biết	Ghi chú bổ sung
 
----
-
-I. 👔 Office & Workplace
-
-Office equipment (printer, copier, scanner…)
-
-Office supplies
-
-Workplace routines
-
-Meetings & presentations
-
-Interoffice communication
-
-
-
----
-
-II. 📅 Schedules & Appointments
-
-Making/rescheduling/canceling appointments
-
-Timetables & deadlines
-
-Conference calls, meeting agendas
-
-Punctuality & delays
-
-
-
----
-
-III. 🧳 Travel & Business Trips
-
-Booking flights, hotels, rental cars
-
-Airport announcements
-
-Travel itineraries
-
-Travel issues (delays, cancellations)
+1	Office & Workplace	120	80	Thiết bị, văn phòng phẩm, hành động
+2	Scheduling & Meetings	100	70	Lên lịch, hoãn, thông báo
+3	Business Travel	120	80	Đặt vé, sân bay, khách sạn
+4	Restaurants & Cafés	80	60	Gọi món, phục vụ, phàn nàn
+5	Shopping & Customer Service	100	70	Trả hàng, hoàn tiền, yêu cầu khách
+6	Jobs & Recruitment	120	80	CV, phỏng vấn, đánh giá nhân viên
+7	Marketing & Advertising	120	80	Chiến dịch, quảng bá, khách hàng
+8	Finance & Budgeting	120	70	Hoá đơn, ngân sách, báo cáo
+9	Contracts & Legal	80	60	Điều khoản, ký kết, quy định
+10	Real Estate & Facilities	90	60	Cho thuê, bảo trì, di chuyển văn phòng
+11	Events & Conferences	100	70	Tổ chức sự kiện, mời tham dự
+12	Reports & Presentations	100	80	Biểu đồ, phân tích, slide
+13	Health & Safety at Work	80	60	Tai nạn, quy trình an toàn
+14	Technology & IT Support	100	70	Lỗi kỹ thuật, phần mềm, bảo trì
+15	Transportation & Delivery	90	60	Vận chuyển, trì hoãn, tracking
+16	Manufacturing & Production	100	70	Dây chuyền, kiểm kê, chất lượng
+17	Education & Training	80	60	Khóa học, giảng viên, đào tạo
+18	Public Places & Outdoor Scenes	70	50	Công viên, nhà ga, sân bay (miêu tả tranh)
+19	Home & Daily Life	70	50	Sinh hoạt gia đình, công việc nhà
+20	Shops, Fashion & Malls	70	50	Thử đồ, hỏi giá, khuyến mãi (tranh)
+21	Speaking Templates (mô tả tranh, trả lời)	—	150	Mẫu cầu nối ý, mô tả chi tiết tranh
+22	Writing Templates (email, yêu cầu, phàn nàn)	—	120	Mẫu email, báo cáo, yêu cầu chuyên nghiệp
+23	Linking & Functional Language	100	150	Từ nối (however, therefore…), biểu đạt nguyên nhân – kết quả
+24	Tổng ôn – kết hợp nhiều chủ đề	—	—	Làm đề, nghe – nói – đọc – viết tổng hợp
 
 
 
 ---
 
-IV. 🛍️ Shopping & Retail
+📊 Tổng khối lượng ước tính
 
-Customer service
+Từ vựng đơn cốt lõi: ~ 2.000–2.500 từ
 
-Discounts, refunds, returns
+Chunk / collocations: ~ 1.800–2.200 cụm
 
-Sales & marketing
-
-Online shopping
+Mẫu câu ứng dụng (S/W): ~ 250–300 câu
 
 
+Như vậy, nếu bạn học đầy đủ theo 24 nhóm chủ đề trên, với khối lượng từ/ cụm như bảng, bạn hoàn toàn đủ phản xạ để:
 
----
+Hiểu ~ 90–95% hội thoại & bài đọc TOEIC
 
-V. 💼 Careers & Hiring
+Nói trôi chảy, mô tả tranh linh hoạt
 
-Job advertisements
-
-Resume & interviews
-
-Promotion, performance evaluation
-
-Firing, resignation
+Viết email & báo cáo rõ ràng, đúng ngữ cảnh
 
 
 
 ---
 
-VI. 📈 Marketing & Advertising
+👉 Bước tiếp theo: Mình có thể triển khai chi tiết Chủ đề 1 – “Office & Workplace” ngay, gồm:
 
-Product promotion
+120 từ đơn (nghĩa + ví dụ)
 
-Branding
+80 chunk (có ngữ cảnh)
 
-Market research
+5–10 mẫu câu Speaking & mẫu Email Writing
 
-Campaign strategies
 
-
-
----
-
-VII. 🏢 Business Operations
-
-Company structure
-
-Corporate hierarchy
-
-Internal communication
-
-Departments: HR, finance, IT, legal, etc.
-
-
-
----
-
-VIII. 💰 Finance & Banking
-
-Invoices, bills, payments
-
-Budgets, cost estimates
-
-Banking services
-
-Taxes, financial reports
-
-
-
----
-
-IX. 🏗️ Manufacturing & Industry
-
-Production process
-
-Supply chain
-
-Inventory control
-
-Quality assurance
-
-
-
----
-
-X. 🧾 Contracts & Documents
-
-Legal terms
-
-Terms & conditions
-
-Agreement, signature, deadline
-
-Policies & procedures
-
-
-
----
-
-XI. 🏠 Real Estate & Facilities
-
-Renting/leasing office spaces
-
-Maintenance requests
-
-Office renovation/moving
-
-Utilities and building services
-
-
-
----
-
-XII. 🍽️ Restaurants & Catering
-
-Making reservations
-
-Ordering food
-
-Menu items
-
-Customer service in hospitality
-
-
-
----
-
-XIII. 🏨 Hotels & Accommodation
-
-Booking and check-in/out
-
-Room service, amenities
-
-Complaints & requests
-
-Business facilities (conference room, Wi-Fi)
-
-
-
----
-
-XIV. 🎫 Events & Conferences
-
-Organizing corporate events
-
-Invitations, RSVPs
-
-Event schedule
-
-Networking activities
-
-
-
----
-
-XV. 📦 Shipping & Delivery
-
-Orders, tracking, delays
-
-Shipping terms
-
-Courier services
-
-Lost/damaged packages
-
-
-
----
-
-XVI. 🖥️ Technology & IT
-
-Office software (emails, spreadsheets)
-
-Technical support
-
-Data management
-
-Internet issues
-
-
-
----
-
-XVII. ⚖️ Customer Service & Complaints
-
-Handling inquiries
-
-Solving problems
-
-Refunds & replacements
-
-Apologizing & resolving disputes
-
-
-
----
-
-XVIII. 📚 Training & Development
-
-Onboarding new employees
-
-Internal training programs
-
-Skills development
-
-Workshops & seminars
-
-
-
----
-
-XIX. 📊 Reports & Data
-
-Business reports
-
-Graphs, charts, and statistics
-
-Performance metrics
-
-Market trends
-
-
-
----
-
-XX. 🏥 Health & Safety at Work
-
-Workplace safety procedures
-
-Health insurance
-
-Emergency drills
-
-Reporting incidents
-
-
-
----
-
-🧠 Gợi ý học tập:
-
-Học chunk phrases và collocations theo từng chủ đề
-
-Ưu tiên học qua mẫu câu thực tế, hội thoại công sở
-
-Luyện phản xạ nói/viết theo mẫu câu công việc
-
-
-
-
-Để thành thạo toàn bộ từ vựng TOEIC (4 kỹ năng) theo các chủ đề trên và đạt mục tiêu:
-
-Listening + Reading ~850
-
-Speaking + Writing ~350
-
-
-👉 Bạn cần học cả từ đơn (individual words) và chunk phrases (cụm từ, collocations, mẫu câu).
-
-
----
-
-🎯 Tổng số lượng từ vựng & cụm cần để "master" TOEIC
-
-Loại từ vựng	Số lượng cần thiết (ước lượng)	Ghi chú
-
-Từ đơn cốt lõi (core vocabulary)	~2.500 từ	Dạng từ loại: danh từ, động từ, tính từ trong ngữ cảnh công việc
-Từ chuyên sâu theo chủ đề TOEIC	~2.000–2.500 từ	Các từ đặc trưng từng lĩnh vực: marketing, HR, finance…
-Chunk phrases / collocations	~2.000–2.500 cụm	Cụm thường gặp trong email, hội thoại, biểu đạt ý kiến
-Mẫu câu TOEIC Speaking/Writing	~500 mẫu câu công việc	Mở đầu, mô tả, đề xuất, phản hồi, nêu ý kiến…
-Từ chức năng / từ nối logic	~300–500 từ/cụm	Dùng trong lập luận, viết email, tổ chức câu trả lời
-
-
-➡️ Tổng cộng cần học:
-
-Từ đơn: ~4.500–5.000 từ
-
-Chunk/cụm từ/mẫu câu: ~2.500–3.000 cụm
-
-
-
----
-
-📦 Chia theo từng nhóm chủ đề chính:
-
-Chủ đề	Từ đơn	Chunk/cụm
-
-Office & Scheduling	300–400	150–200
-Business & HR	400–500	200–300
-Finance & Contracts	300–400	150–250
-Marketing & Sales	300–400	150–200
-Travel & Hotel	300–400	150–200
-Email & Communication	250–300	200–300
-Customer service & Complaints	250–300	150–250
-Events, Training, Reports	300–350	150–250
-Shipping, Manufacturing, IT	300–400	150–200
-Speaking & Writing mẫu câu	—	~500–700
-
-
-
----
-
-🧠 Cách học hiệu quả:
-
-📌 Học theo chủ đề mỗi tuần (ví dụ: 1 tuần học 1 chủ đề với 150 từ + 100 cụm)
-
-🔄 Ôn lại mỗi tuần 1–2 buổi
-
-🎧 Nghe đoạn hội thoại TOEIC thực tế theo chủ đề
-
-🗣 Nói/viết theo mẫu câu (template) → giúp tăng phản xạ
-
-
-
----
-
-📅 Gợi ý phân bổ học trong 6 tháng (1 tiếng/ngày):
-
-24 tuần → Mỗi tuần học:
-
-150–200 từ/cụm mới
-
-1 đề luyện nghe/đọc
-
-1 bài nói/viết thực hành
-
-
-Tổng: ~4.800 từ/cụm → Đủ bao quát 100% đề thi TOEIC thực tế
-
-
-
----
-
-Bạn muốn mình chia danh sách cụ thể theo từng chủ đề?
-Ví dụ:
-
-Tuần 1: Office Vocabulary – 150 từ/cụm
-
-Tuần 2: Travel – 180 từ/cụm
-
-…
-
-
-Mình có thể làm dạng bảng, file PDF, hoặc Anki để bạn dễ học nhé!
-
+Bạn xác nhận để mình gửi nội dung chi tiết chủ đề 1 nhé?
 
