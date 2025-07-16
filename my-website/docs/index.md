@@ -300,16 +300,100 @@ Luyện phản xạ nói/viết theo mẫu câu công việc
 
 
 
+
+Để thành thạo toàn bộ từ vựng TOEIC (4 kỹ năng) theo các chủ đề trên và đạt mục tiêu:
+
+Listening + Reading ~850
+
+Speaking + Writing ~350
+
+
+👉 Bạn cần học cả từ đơn (individual words) và chunk phrases (cụm từ, collocations, mẫu câu).
+
+
 ---
 
-📌 Bạn cần mình xây lộ trình học từ vựng/chunk 6 tháng theo từng chủ đề trên không?
+🎯 Tổng số lượng từ vựng & cụm cần để "master" TOEIC
+
+Loại từ vựng	Số lượng cần thiết (ước lượng)	Ghi chú
+
+Từ đơn cốt lõi (core vocabulary)	~2.500 từ	Dạng từ loại: danh từ, động từ, tính từ trong ngữ cảnh công việc
+Từ chuyên sâu theo chủ đề TOEIC	~2.000–2.500 từ	Các từ đặc trưng từng lĩnh vực: marketing, HR, finance…
+Chunk phrases / collocations	~2.000–2.500 cụm	Cụm thường gặp trong email, hội thoại, biểu đạt ý kiến
+Mẫu câu TOEIC Speaking/Writing	~500 mẫu câu công việc	Mở đầu, mô tả, đề xuất, phản hồi, nêu ý kiến…
+Từ chức năng / từ nối logic	~300–500 từ/cụm	Dùng trong lập luận, viết email, tổ chức câu trả lời
+
+
+➡️ Tổng cộng cần học:
+
+Từ đơn: ~4.500–5.000 từ
+
+Chunk/cụm từ/mẫu câu: ~2.500–3.000 cụm
+
+
+
+---
+
+📦 Chia theo từng nhóm chủ đề chính:
+
+Chủ đề	Từ đơn	Chunk/cụm
+
+Office & Scheduling	300–400	150–200
+Business & HR	400–500	200–300
+Finance & Contracts	300–400	150–250
+Marketing & Sales	300–400	150–200
+Travel & Hotel	300–400	150–200
+Email & Communication	250–300	200–300
+Customer service & Complaints	250–300	150–250
+Events, Training, Reports	300–350	150–250
+Shipping, Manufacturing, IT	300–400	150–200
+Speaking & Writing mẫu câu	—	~500–700
+
+
+
+---
+
+🧠 Cách học hiệu quả:
+
+📌 Học theo chủ đề mỗi tuần (ví dụ: 1 tuần học 1 chủ đề với 150 từ + 100 cụm)
+
+🔄 Ôn lại mỗi tuần 1–2 buổi
+
+🎧 Nghe đoạn hội thoại TOEIC thực tế theo chủ đề
+
+🗣 Nói/viết theo mẫu câu (template) → giúp tăng phản xạ
+
+
+
+---
+
+📅 Gợi ý phân bổ học trong 6 tháng (1 tiếng/ngày):
+
+24 tuần → Mỗi tuần học:
+
+150–200 từ/cụm mới
+
+1 đề luyện nghe/đọc
+
+1 bài nói/viết thực hành
+
+
+Tổng: ~4.800 từ/cụm → Đủ bao quát 100% đề thi TOEIC thực tế
+
+
+
+---
+
+Bạn muốn mình chia danh sách cụ thể theo từng chủ đề?
 Ví dụ:
 
-Tuần 1: Office & Scheduling
+Tuần 1: Office Vocabulary – 150 từ/cụm
 
-Tuần 2: Travel & Accommodation
+Tuần 2: Travel – 180 từ/cụm
 
 …
-Mình có thể lên kế hoạch học chi tiết 1 tiếng/ngày cho bạn nếu bạn muốn!
+
+
+Mình có thể làm dạng bảng, file PDF, hoặc Anki để bạn dễ học nhé!
 
 
