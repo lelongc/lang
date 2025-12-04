@@ -1,4 +1,5 @@
-học từng này rồi luyện đề 
+học từng này rồi từ vựng rồi  luyện đề 
+
 1.  Kiến thức cơ bản 1: từ loại và cụm từ	
 
 2.	Kiến thức cơ bản 2: mệnh đề và câu	
@@ -378,4 +379,5 @@ Nếu bạn muốn, mình có thể tiếp tục tạo:
 📌 **(3) Bộ bài tập Part 5–6 theo từng chủ điểm**
 
 Bạn muốn phần nào tiếp theo?
+
 
