@@ -1,21 +1,38 @@
 học từng này rồi luyện đề 
 1.  Kiến thức cơ bản 1: từ loại và cụm từ	
+
 2.	Kiến thức cơ bản 2: mệnh đề và câu	
+
 3.	Danh từ	
+
 4.	Đại từ	
+
 5.	Tính từ	Học thử
+
 6.	Thì	
+
 7.	Thể	
+
 8.	Động từ nguyên mẫu	
+
 9.	Động từ nguyên mẫu có 'to'	
+
 10.	Danh động từ	
+
 11.	Phân từ và cấu trúc phân từ	
+
 12.	Trạng từ	
+
 13.	Giới từ	
+
 14.	Liên từ	
+
 15.	Mệnh đề quan hệ	
+
 16.	Câu điều kiện	
+
 17.	Cấu trúc phân từ	
+
 18.	Cấu trúc so sánh
 
 
@@ -361,3 +378,4 @@ Nếu bạn muốn, mình có thể tiếp tục tạo:
 📌 **(3) Bộ bài tập Part 5–6 theo từng chủ điểm**
 
 Bạn muốn phần nào tiếp theo?
+
